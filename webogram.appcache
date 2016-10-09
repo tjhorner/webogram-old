@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Time: Thu Sep 22 2016 15:28:53 GMT-0700 (Pacific Daylight Time)
+# Time: Sat Oct 08 2016 22:45:35 GMT-0700 (Pacific Daylight Time)
 
 
 CACHE:
@@ -9,7 +9,6 @@ service_worker.js
 css%5Capp.css
 css%5Cdesktop.css
 css%5Cmobile.css
-js%5Capp.js
 img%5Cblank.gif
 img%5Cemojisprite_0.png
 img%5Cemojisprite_1.png
@@ -27,19 +26,9 @@ img%5CTelegram.svg
 img%5CTelegram72.png
 img%5CTelegram72_2x.png
 img%5CTelegram_2x.png
+js%5Capp.js
 nacl%5Cmtproto_crypto.nmf
 nacl%5Cmtproto_crypto.pexe
-js%5Clib%5Cbin_utils.js
-js%5Clib%5Ccrypto_worker.js
-js%5Clib%5Cpolyfill.js
-js%5Clib%5Cpush_worker.js
-js%5Clocales%5Cde-de.json
-js%5Clocales%5Cen-us.json
-js%5Clocales%5Ces-es.json
-js%5Clocales%5Cit-it.json
-js%5Clocales%5Cnl-nl.json
-js%5Clocales%5Cpt-br.json
-js%5Clocales%5Cru-ru.json
 img%5Cchangelog%5Ccard_wecandoit.png
 img%5Cicons%5CAboutLogos.png
 img%5Cicons%5CAboutLogos_2x.png
@@ -74,6 +63,17 @@ img%5Cplaceholders%5CUserAvatar7@2x.png
 img%5Cplaceholders%5CUserAvatar8@2x.png
 img%5Cplaceholders%5CVideoThumbConversation.gif
 img%5Cplaceholders%5CVideoThumbModal.gif
+js%5Clib%5Cbin_utils.js
+js%5Clib%5Ccrypto_worker.js
+js%5Clib%5Cpolyfill.js
+js%5Clib%5Cpush_worker.js
+js%5Clocales%5Cde-de.json
+js%5Clocales%5Cen-us.json
+js%5Clocales%5Ces-es.json
+js%5Clocales%5Cit-it.json
+js%5Clocales%5Cnl-nl.json
+js%5Clocales%5Cpt-br.json
+js%5Clocales%5Cru-ru.json
 vendor%5Cclosure%5Clong.js
 vendor%5CcryptoJS%5Ccrypto.js
 vendor%5Cjsbn%5Cjsbn_combined.js
